@@ -1,0 +1,1 @@
+## Simple web development project utilizing basic HTML elements to create a recipes list.
